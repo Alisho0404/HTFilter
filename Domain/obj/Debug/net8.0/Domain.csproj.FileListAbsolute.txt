@@ -1,0 +1,11 @@
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask\Domain\obj\Debug\net8.0\ref\Domain.dll
